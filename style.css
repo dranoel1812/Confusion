@@ -3,3 +3,13 @@
 p {
   font-family: 'Rubik', sans-serif;
 }
+
+h1 {
+  font-family: 'Rubik', sans-serif;
+}
+a {
+  color: lime; text-decoration: none;
+}
+a:hover {
+  color: white; background-color: black
+}
