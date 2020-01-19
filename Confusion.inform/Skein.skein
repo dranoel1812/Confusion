@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 
-<Skein rootNode="node-1095">
+<Skein rootNode="node-1235">
     <generator>Inform Mac Client (Inform version )</generator>
-    <item nodeId="node-1095">
+    <item nodeId="node-1235">
         <command xml:space="preserve">Confusion</command>
         <result xml:space="preserve">
 
@@ -20,18 +20,18 @@ There is a polar meter discarded carelessly near your left big toe, although it 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1148"></child>
-            <child nodeId="node-1137"></child>
-            <child nodeId="node-1131"></child>
-            <child nodeId="node-1127"></child>
-            <child nodeId="node-1114"></child>
-            <child nodeId="node-1111"></child>
-            <child nodeId="node-1110"></child>
-            <child nodeId="node-1105"></child>
-            <child nodeId="node-1096"></child>
+        <children><child nodeId="node-1288"></child>
+            <child nodeId="node-1277"></child>
+            <child nodeId="node-1271"></child>
+            <child nodeId="node-1267"></child>
+            <child nodeId="node-1254"></child>
+            <child nodeId="node-1251"></child>
+            <child nodeId="node-1250"></child>
+            <child nodeId="node-1245"></child>
+            <child nodeId="node-1236"></child>
         </children>
     </item>
-    <item nodeId="node-1096">
+    <item nodeId="node-1236">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">Waking Room
 There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
@@ -40,10 +40,10 @@ There is a polar meter discarded carelessly near your left big toe, although it 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1097"></child>
+        <children><child nodeId="node-1237"></child>
         </children>
     </item>
-    <item nodeId="node-1097">
+    <item nodeId="node-1237">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">Waking Room
 There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
@@ -52,60 +52,60 @@ There is a polar meter discarded carelessly near your left big toe, although it 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1098"></child>
+        <children><child nodeId="node-1238"></child>
         </children>
     </item>
-    <item nodeId="node-1098">
+    <item nodeId="node-1238">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1099"></child>
+        <children><child nodeId="node-1239"></child>
         </children>
     </item>
-    <item nodeId="node-1099">
+    <item nodeId="node-1239">
         <command xml:space="preserve">look</command>
         <result xml:space="preserve">south side of The Really Really Long Hallway
 You are in a really, really long hallway, which stretches to the north, and has a door to the south.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1100"></child>
+        <children><child nodeId="node-1240"></child>
         </children>
     </item>
-    <item nodeId="node-1100">
+    <item nodeId="node-1240">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1101"></child>
+        <children><child nodeId="node-1241"></child>
         </children>
     </item>
-    <item nodeId="node-1101">
+    <item nodeId="node-1241">
         <command xml:space="preserve">look</command>
         <result xml:space="preserve">north side of The Really Really Long Hallway
 You are in a really, really lon hallway which stretches to the south. There is a door to the north.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1102"></child>
+        <children><child nodeId="node-1242"></child>
         </children>
     </item>
-    <item nodeId="node-1102">
+    <item nodeId="node-1242">
         <command xml:space="preserve">nor</command>
         <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1103"></child>
+        <children><child nodeId="node-1243"></child>
         </children>
     </item>
-    <item nodeId="node-1103">
+    <item nodeId="node-1243">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1104"></child>
+        <children><child nodeId="node-1244"></child>
         </children>
     </item>
-    <item nodeId="node-1104">
+    <item nodeId="node-1244">
         <command xml:space="preserve">look</command>
         <result xml:space="preserve">Frog Track
 A track which Giant frogs would race on is in this large hall.
@@ -113,7 +113,7 @@ A track which Giant frogs would race on is in this large hall.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1105">
+    <item nodeId="node-1245">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Absolutely Dreadful Disaster Room
@@ -126,10 +126,10 @@ There is a polar meter discarded carelessly near your left big toe, although it 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1106"></child>
+        <children><child nodeId="node-1246"></child>
         </children>
     </item>
-    <item nodeId="node-1106">
+    <item nodeId="node-1246">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">Waking Room
 There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
@@ -138,19 +138,19 @@ There is a polar meter discarded carelessly near your left big toe, although it 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1107"></child>
+        <children><child nodeId="node-1247"></child>
         </children>
     </item>
-    <item nodeId="node-1107">
+    <item nodeId="node-1247">
         <command xml:space="preserve">wesat</command>
         <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1108"></child>
+        <children><child nodeId="node-1248"></child>
         </children>
     </item>
-    <item nodeId="node-1108">
+    <item nodeId="node-1248">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">Waking Room
 There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
@@ -159,15 +159,15 @@ There is a polar meter discarded carelessly near your left big toe, although it 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1109"></child>
+        <children><child nodeId="node-1249"></child>
         </children>
     </item>
-    <item nodeId="node-1109">
+    <item nodeId="node-1249">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1110">
+    <item nodeId="node-1250">
         <command xml:space="preserve">test me</command>
         <result xml:space="preserve">(Testing.)
 
@@ -186,16 +186,16 @@ There is a polar meter discarded carelessly near your left big toe, although it 
 </commentary>
         <children></children>
     </item>
-    <item nodeId="node-1111">
+    <item nodeId="node-1251">
         <command xml:space="preserve">test</command>
         <result xml:space="preserve">&gt;--&gt; The following tests are available:
 'test me'
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1112"></child>
+        <children><child nodeId="node-1252"></child>
         </children>
     </item>
-    <item nodeId="node-1112">
+    <item nodeId="node-1252">
         <command xml:space="preserve">test me</command>
         <result xml:space="preserve">(Testing.)
 
@@ -212,10 +212,10 @@ There is a polar meter discarded carelessly near your left big toe, although it 
 &gt;</result>
         <commentary xml:space="preserve">[1] w
 </commentary>
-        <children><child nodeId="node-1113"></child>
+        <children><child nodeId="node-1253"></child>
         </children>
     </item>
-    <item nodeId="node-1113">
+    <item nodeId="node-1253">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Absolutely Dreadful Disaster Room
@@ -229,18 +229,18 @@ There is a polar meter discarded carelessly near your left big toe, although it 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1114">
+    <item nodeId="node-1254">
         <command xml:space="preserve">take meter</command>
         <result xml:space="preserve">Taken.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1126"></child>
-            <child nodeId="node-1116"></child>
-            <child nodeId="node-1115"></child>
+        <children><child nodeId="node-1266"></child>
+            <child nodeId="node-1256"></child>
+            <child nodeId="node-1255"></child>
         </children>
     </item>
-    <item nodeId="node-1115">
+    <item nodeId="node-1255">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">Waking Room
 There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
@@ -248,7 +248,7 @@ There is a door to the north, another door to the west, and a window in the sout
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1116">
+    <item nodeId="node-1256">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Absolutely Dreadful Disaster Room
@@ -259,10 +259,10 @@ There is a door to the north, another door to the west, and a window in the sout
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1117"></child>
+        <children><child nodeId="node-1257"></child>
         </children>
     </item>
-    <item nodeId="node-1117">
+    <item nodeId="node-1257">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 south side of The Really Really Long Hallway
@@ -270,10 +270,10 @@ You ae in a really, really long hallway, which stretches to the north, and has a
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1118"></child>
+        <children><child nodeId="node-1258"></child>
         </children>
     </item>
-    <item nodeId="node-1118">
+    <item nodeId="node-1258">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">You are now really tired.
 
@@ -282,20 +282,20 @@ You are in a really, really long hallway which stretches to the south. There is 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1121"></child>
-            <child nodeId="node-1119"></child>
+        <children><child nodeId="node-1261"></child>
+            <child nodeId="node-1259"></child>
         </children>
     </item>
-    <item nodeId="node-1119">
+    <item nodeId="node-1259">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">Too tired!
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1120"></child>
+        <children><child nodeId="node-1260"></child>
         </children>
     </item>
-    <item nodeId="node-1120">
+    <item nodeId="node-1260">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Frog Track
@@ -304,16 +304,16 @@ A track which Giant frogs would race on is in this large hall.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1121">
+    <item nodeId="node-1261">
         <command xml:space="preserve"></command>
         <result xml:space="preserve">I beg your pardon?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1122"></child>
+        <children><child nodeId="node-1262"></child>
         </children>
     </item>
-    <item nodeId="node-1122">
+    <item nodeId="node-1262">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Frog Track
@@ -323,35 +323,35 @@ A frog speed tracker is in the middle of the room, but it is too big to lift up.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1123"></child>
+        <children><child nodeId="node-1263"></child>
         </children>
     </item>
-    <item nodeId="node-1123">
+    <item nodeId="node-1263">
         <command xml:space="preserve">take speed</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1124"></child>
+        <children><child nodeId="node-1264"></child>
         </children>
     </item>
-    <item nodeId="node-1124">
+    <item nodeId="node-1264">
         <command xml:space="preserve">take speed tracker</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1125"></child>
+        <children><child nodeId="node-1265"></child>
         </children>
     </item>
-    <item nodeId="node-1125">
+    <item nodeId="node-1265">
         <command xml:space="preserve">take frog</command>
         <result xml:space="preserve">Too big and heavy!
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1126">
+    <item nodeId="node-1266">
         <command xml:space="preserve">go west</command>
         <result xml:space="preserve">Waking Room
 You awaken to find yourself confused, disorientated, and also confused and disorientated. The frst thing you notice is the absence of your faithful friend and companion of many minutes, Martin, the polar bear slightly smaller than a really really big frog. There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room. You also notice the alarming absence of a huge frog with which you would normally compare Martin. This causes you such distress that you fall unconscious, and have to back to the top of the paragraph when you wake up.
@@ -359,30 +359,30 @@ You awaken to find yourself confused, disorientated, and also confused and disor
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1127">
+    <item nodeId="node-1267">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1128"></child>
+        <children><child nodeId="node-1268"></child>
         </children>
     </item>
-    <item nodeId="node-1128">
+    <item nodeId="node-1268">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1129"></child>
+        <children><child nodeId="node-1269"></child>
         </children>
     </item>
-    <item nodeId="node-1129">
+    <item nodeId="node-1269">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1130"></child>
+        <children><child nodeId="node-1270"></child>
         </children>
     </item>
-    <item nodeId="node-1130">
+    <item nodeId="node-1270">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">Waking Room
 There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
@@ -392,7 +392,7 @@ There is a polar meter discarded carelessly near your left big toe, although it 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1131">
+    <item nodeId="node-1271">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 south side of The Really Really Long Hallway
@@ -400,10 +400,10 @@ You ae in a really, really long hallway, which stretches to the north, and has a
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1132"></child>
+        <children><child nodeId="node-1272"></child>
         </children>
     </item>
-    <item nodeId="node-1132">
+    <item nodeId="node-1272">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">You are now really tired.
 
@@ -412,20 +412,20 @@ You are in a really, really long hallway which stretches to the south. There is 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1135"></child>
-            <child nodeId="node-1133"></child>
+        <children><child nodeId="node-1275"></child>
+            <child nodeId="node-1273"></child>
         </children>
     </item>
-    <item nodeId="node-1133">
+    <item nodeId="node-1273">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">Too tired!
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1134"></child>
+        <children><child nodeId="node-1274"></child>
         </children>
     </item>
-    <item nodeId="node-1134">
+    <item nodeId="node-1274">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Frog Track
@@ -434,7 +434,7 @@ A track which Giant frogs would race on is in this large hall.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1135">
+    <item nodeId="node-1275">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Frog Track
@@ -442,10 +442,10 @@ A track which Giant frogs would race on is in this large hall.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1136"></child>
+        <children><child nodeId="node-1276"></child>
         </children>
     </item>
-    <item nodeId="node-1136">
+    <item nodeId="node-1276">
         <command xml:space="preserve">look</command>
         <result xml:space="preserve">Frog Track
 A track which Giant frogs would race on is in this large hall.
@@ -453,7 +453,7 @@ A track which Giant frogs would race on is in this large hall.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1137">
+    <item nodeId="node-1277">
         <command xml:space="preserve">look</command>
         <result xml:space="preserve">Waking Room
  There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room. 
@@ -462,66 +462,66 @@ There is a polar meter discarded carelessly near your left big toe, although it 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1145"></child>
-            <child nodeId="node-1138"></child>
+        <children><child nodeId="node-1285"></child>
+            <child nodeId="node-1278"></child>
         </children>
     </item>
-    <item nodeId="node-1138">
+    <item nodeId="node-1278">
         <command xml:space="preserve">take meter</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1139"></child>
+        <children><child nodeId="node-1279"></child>
         </children>
     </item>
-    <item nodeId="node-1139">
+    <item nodeId="node-1279">
         <command xml:space="preserve">take meter</command>
         <result xml:space="preserve">You already have that.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1140"></child>
+        <children><child nodeId="node-1280"></child>
         </children>
     </item>
-    <item nodeId="node-1140">
+    <item nodeId="node-1280">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">Waking Room
 There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1141"></child>
+        <children><child nodeId="node-1281"></child>
         </children>
     </item>
-    <item nodeId="node-1141">
+    <item nodeId="node-1281">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">Waking Room
 There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1142"></child>
+        <children><child nodeId="node-1282"></child>
         </children>
     </item>
-    <item nodeId="node-1142">
+    <item nodeId="node-1282">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">Waking Room
 There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1143"></child>
+        <children><child nodeId="node-1283"></child>
         </children>
     </item>
-    <item nodeId="node-1143">
+    <item nodeId="node-1283">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1144"></child>
+        <children><child nodeId="node-1284"></child>
         </children>
     </item>
-    <item nodeId="node-1144">
+    <item nodeId="node-1284">
         <command xml:space="preserve">go west</command>
         <result xml:space="preserve">Waking Room
 There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
@@ -529,7 +529,7 @@ There is a door to the north, another door to the west, and a window in the sout
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1145">
+    <item nodeId="node-1285">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 south side of The Really Really Long Hallway
@@ -537,10 +537,10 @@ You are in a really, really long hallway, which stretches to the north, and has 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1146"></child>
+        <children><child nodeId="node-1286"></child>
         </children>
     </item>
-    <item nodeId="node-1146">
+    <item nodeId="node-1286">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 north side of The Really Really Long Hallway
@@ -548,10 +548,10 @@ You are in a really, really lon hallway which stretches to the south. There is a
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1147"></child>
+        <children><child nodeId="node-1287"></child>
         </children>
     </item>
-    <item nodeId="node-1147">
+    <item nodeId="node-1287">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Frog Track
@@ -560,82 +560,82 @@ A track which Giant frogs would race on is in this large hall.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1148">
+    <item nodeId="node-1288">
         <command xml:space="preserve">Take meter</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1149"></child>
+        <children><child nodeId="node-1289"></child>
         </children>
     </item>
-    <item nodeId="node-1149">
+    <item nodeId="node-1289">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">Waking Room
 There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1150"></child>
+        <children><child nodeId="node-1290"></child>
         </children>
     </item>
-    <item nodeId="node-1150">
+    <item nodeId="node-1290">
         <command xml:space="preserve">North</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1151"></child>
+        <children><child nodeId="node-1291"></child>
         </children>
     </item>
-    <item nodeId="node-1151">
+    <item nodeId="node-1291">
         <command xml:space="preserve">North</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1152"></child>
+        <children><child nodeId="node-1292"></child>
         </children>
     </item>
-    <item nodeId="node-1152">
+    <item nodeId="node-1292">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1153"></child>
+        <children><child nodeId="node-1293"></child>
         </children>
     </item>
-    <item nodeId="node-1153">
+    <item nodeId="node-1293">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1154"></child>
+        <children><child nodeId="node-1294"></child>
         </children>
     </item>
-    <item nodeId="node-1154">
+    <item nodeId="node-1294">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1155"></child>
+        <children><child nodeId="node-1295"></child>
         </children>
     </item>
-    <item nodeId="node-1155">
+    <item nodeId="node-1295">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1156"></child>
+        <children><child nodeId="node-1296"></child>
         </children>
     </item>
-    <item nodeId="node-1156">
+    <item nodeId="node-1296">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1157"></child>
+        <children><child nodeId="node-1297"></child>
         </children>
     </item>
-    <item nodeId="node-1157">
+    <item nodeId="node-1297">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1158"></child>
+        <children><child nodeId="node-1298"></child>
         </children>
     </item>
-    <item nodeId="node-1158">
+    <item nodeId="node-1298">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
