@@ -1,0 +1,643 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1095">
+    <generator>Inform Mac Client (Inform version )</generator>
+    <item nodeId="node-1095">
+        <command xml:space="preserve">Confusion</command>
+        <result xml:space="preserve">
+
+
+You awaken to find yourself confused, disorientated, and also confused and disorientated. The frst thing you notice is the absence of your faithful friend and companion of many minutes, Martin, the polar bear slightly smaller than a really really big frog. There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room. You also notice the alarming absence of a huge frog with which you would normally compare Martin. This causes you such distress that you fall unconscious, and have to back to the top of the paragraph when you wake up.
+
+Adventure
+An Interactive Fiction by Leonard
+Release 1 / Serial number 200119 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+
+Waking Room
+There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
+
+There is a polar meter discarded carelessly near your left big toe, although it looks a bit damaged, and unfortunately the letters  M, R, T and N have falen off the Polar Bear name detector bit.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1148"></child>
+            <child nodeId="node-1137"></child>
+            <child nodeId="node-1131"></child>
+            <child nodeId="node-1127"></child>
+            <child nodeId="node-1114"></child>
+            <child nodeId="node-1111"></child>
+            <child nodeId="node-1110"></child>
+            <child nodeId="node-1105"></child>
+            <child nodeId="node-1096"></child>
+        </children>
+    </item>
+    <item nodeId="node-1096">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">Waking Room
+There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
+
+There is a polar meter discarded carelessly near your left big toe, although it looks a bit damaged, and unfortunately the letters  M, R, T and N have falen off the Polar Bear name detector bit.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1097"></child>
+        </children>
+    </item>
+    <item nodeId="node-1097">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">Waking Room
+There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
+
+There is a polar meter discarded carelessly near your left big toe, although it looks a bit damaged, and unfortunately the letters  M, R, T and N have falen off the Polar Bear name detector bit.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1098"></child>
+        </children>
+    </item>
+    <item nodeId="node-1098">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1099"></child>
+        </children>
+    </item>
+    <item nodeId="node-1099">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">south side of The Really Really Long Hallway
+You are in a really, really long hallway, which stretches to the north, and has a door to the south.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1100"></child>
+        </children>
+    </item>
+    <item nodeId="node-1100">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1101"></child>
+        </children>
+    </item>
+    <item nodeId="node-1101">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">north side of The Really Really Long Hallway
+You are in a really, really lon hallway which stretches to the south. There is a door to the north.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1102"></child>
+        </children>
+    </item>
+    <item nodeId="node-1102">
+        <command xml:space="preserve">nor</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1103"></child>
+        </children>
+    </item>
+    <item nodeId="node-1103">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1104"></child>
+        </children>
+    </item>
+    <item nodeId="node-1104">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Frog Track
+A track which Giant frogs would race on is in this large hall.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1105">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Absolutely Dreadful Disaster Room
+As you enter the ADDR, you are amazed by the amount of tragically destroyed bits of Polars Bears and Frogs-it is really horrible. I mean, there is blood on the blood on the floor-it's so horribly distressing that you immediately stop going West, thus saving us the bother of making up anything else this way except for utterly really horibly wrecked bits of polar bears and even bigger frogs. You immediately suspect the actions of your arch-nemesis, Dillon Practical Joker Weird Polar Bear and Frog Slaughterer The Sixth. Or the Third.
+
+Waking Room
+You awaken to find yourself confused, disorientated, and also confused and disorientated. The frst thing you notice is the absence of your faithful friend and companion of many minutes, Martin, the polar bear slightly smaller than a really really big frog. There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room. You also notice the alarming absence of a huge frog with which you would normally compare Martin. This causes you such distress that you fall unconscious, and have to back to the top of the paragraph when you wake up.
+
+There is a polar meter discarded carelessly near your left big toe, although it looks a bit damaged, and unfortunately the letters  M, R, T and N have falen off the Polar Bear name detector bit.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1106"></child>
+        </children>
+    </item>
+    <item nodeId="node-1106">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">Waking Room
+There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
+
+There is a polar meter discarded carelessly near your left big toe, although it looks a bit damaged, and unfortunately the letters  M, R, T and N have falen off the Polar Bear name detector bit.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1107"></child>
+        </children>
+    </item>
+    <item nodeId="node-1107">
+        <command xml:space="preserve">wesat</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1108"></child>
+        </children>
+    </item>
+    <item nodeId="node-1108">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">Waking Room
+There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
+
+There is a polar meter discarded carelessly near your left big toe, although it looks a bit damaged, and unfortunately the letters  M, R, T and N have falen off the Polar Bear name detector bit.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1109"></child>
+        </children>
+    </item>
+    <item nodeId="node-1109">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1110">
+        <command xml:space="preserve">test me</command>
+        <result xml:space="preserve">(Testing.)
+
+&gt;[1] w
+
+Absolutely Dreadful Disaster Room
+As you enter the ADDR, you are amazed by the amount of tragically destroyed bits of Polars Bears and Frogs-it is really horrible. I mean, there is blood on the blood on the floor-it's so horribly distressing that you immediately stop going West, thus saving us the bother of making up anything else this way except for utterly really horibly wrecked bits of polar bears and even bigger frogs. You immediately suspect the actions of your arch-nemesis, Dillon Practical Joker Weird Polar Bear and Frog Slaughterer The Sixth. Or the Third.
+
+Waking Room
+There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
+
+There is a polar meter discarded carelessly near your left big toe, although it looks a bit damaged, and unfortunately the letters  M, R, T and N have falen off the Polar Bear name detector bit.
+
+&gt;</result>
+        <commentary xml:space="preserve">[1] w
+</commentary>
+        <children></children>
+    </item>
+    <item nodeId="node-1111">
+        <command xml:space="preserve">test</command>
+        <result xml:space="preserve">&gt;--&gt; The following tests are available:
+'test me'
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1112"></child>
+        </children>
+    </item>
+    <item nodeId="node-1112">
+        <command xml:space="preserve">test me</command>
+        <result xml:space="preserve">(Testing.)
+
+&gt;[1] w
+
+Absolutely Dreadful Disaster Room
+As you enter the ADDR, you are amazed by the amount of tragically destroyed bits of Polars Bears and Frogs-it is really horrible. I mean, there is blood on the blood on the floor-it's so horribly distressing that you immediately stop going West, thus saving us the bother of making up anything else this way except for utterly really horibly wrecked bits of polar bears and even bigger frogs. You immediately suspect the actions of your arch-nemesis, Dillon Practical Joker Weird Polar Bear and Frog Slaughterer The Sixth. Or the Third.
+
+Waking Room
+ There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room. 
+
+There is a polar meter discarded carelessly near your left big toe, although it looks a bit damaged, and unfortunately the letters  M, R, T and N have falen off the Polar Bear name detector bit.
+
+&gt;</result>
+        <commentary xml:space="preserve">[1] w
+</commentary>
+        <children><child nodeId="node-1113"></child>
+        </children>
+    </item>
+    <item nodeId="node-1113">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Absolutely Dreadful Disaster Room
+As you enter the ADDR, you are amazed by the amount of tragically destroyed bits of Polars Bears and Frogs-it is really horrible. I mean, there is blood on the blood on the floor-it's so horribly distressing that you immediately stop going West, thus saving us the bother of making up anything else this way except for utterly really horibly wrecked bits of polar bears and even bigger frogs. You immediately suspect the actions of your arch-nemesis, Dillon Practical Joker Weird Polar Bear and Frog Slaughterer The Sixth. Or the Third.
+
+Waking Room
+ There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room. 
+
+There is a polar meter discarded carelessly near your left big toe, although it looks a bit damaged, and unfortunately the letters  M, R, T and N have falen off the Polar Bear name detector bit.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1114">
+        <command xml:space="preserve">take meter</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1126"></child>
+            <child nodeId="node-1116"></child>
+            <child nodeId="node-1115"></child>
+        </children>
+    </item>
+    <item nodeId="node-1115">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">Waking Room
+There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1116">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Absolutely Dreadful Disaster Room
+As you enter the ADDR, you are amazed by the amount of tragically destroyed bits of Polars Bears and Frogs-it is really horrible. I mean, there is blood on the blood on the floor - it's so horribly distressing that you immediately stop going West, thus saving us the bother of making up anything else this way except for utterly really horibly wrecked bits of polar bears and even bigger frogs. You immediately suspect the actions of your arch-nemesis, Dillon Practical Joker Weird Polar Bear and Frog Slaughterer The Sixth. Or the Third.
+
+Waking Room
+There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1117"></child>
+        </children>
+    </item>
+    <item nodeId="node-1117">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+south side of The Really Really Long Hallway
+You ae in a really, really long hallway, which stretches to the north, and has a door to the south.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1118"></child>
+        </children>
+    </item>
+    <item nodeId="node-1118">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You are now really tired.
+
+north side of The Really Really Long Hallway
+You are in a really, really long hallway which stretches to the south. There is a door to the north.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1121"></child>
+            <child nodeId="node-1119"></child>
+        </children>
+    </item>
+    <item nodeId="node-1119">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">Too tired!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1120"></child>
+        </children>
+    </item>
+    <item nodeId="node-1120">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Frog Track
+A track which Giant frogs would race on is in this large hall.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1121">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1122"></child>
+        </children>
+    </item>
+    <item nodeId="node-1122">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Frog Track
+A track which Giant frogs would race on is in this large hall.
+
+A frog speed tracker is in the middle of the room, but it is too big to lift up.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1123"></child>
+        </children>
+    </item>
+    <item nodeId="node-1123">
+        <command xml:space="preserve">take speed</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1124"></child>
+        </children>
+    </item>
+    <item nodeId="node-1124">
+        <command xml:space="preserve">take speed tracker</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1125"></child>
+        </children>
+    </item>
+    <item nodeId="node-1125">
+        <command xml:space="preserve">take frog</command>
+        <result xml:space="preserve">Too big and heavy!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1126">
+        <command xml:space="preserve">go west</command>
+        <result xml:space="preserve">Waking Room
+You awaken to find yourself confused, disorientated, and also confused and disorientated. The frst thing you notice is the absence of your faithful friend and companion of many minutes, Martin, the polar bear slightly smaller than a really really big frog. There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room. You also notice the alarming absence of a huge frog with which you would normally compare Martin. This causes you such distress that you fall unconscious, and have to back to the top of the paragraph when you wake up.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1127">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1128"></child>
+        </children>
+    </item>
+    <item nodeId="node-1128">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1129"></child>
+        </children>
+    </item>
+    <item nodeId="node-1129">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1130"></child>
+        </children>
+    </item>
+    <item nodeId="node-1130">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">Waking Room
+There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
+
+There is a polar meter discarded carelessly near your left big toe, although it looks a bit damaged, and unfortunately the letters  M, R, T and N have falen off the Polar Bear name detector bit.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1131">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+south side of The Really Really Long Hallway
+You ae in a really, really long hallway, which stretches to the north, and has a door to the south.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1132"></child>
+        </children>
+    </item>
+    <item nodeId="node-1132">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You are now really tired.
+
+north side of The Really Really Long Hallway
+You are in a really, really long hallway which stretches to the south. There is a door to the north.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1135"></child>
+            <child nodeId="node-1133"></child>
+        </children>
+    </item>
+    <item nodeId="node-1133">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">Too tired!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1134"></child>
+        </children>
+    </item>
+    <item nodeId="node-1134">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Frog Track
+A track which Giant frogs would race on is in this large hall.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1135">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Frog Track
+A track which Giant frogs would race on is in this large hall.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1136"></child>
+        </children>
+    </item>
+    <item nodeId="node-1136">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Frog Track
+A track which Giant frogs would race on is in this large hall.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1137">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Waking Room
+ There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room. 
+
+There is a polar meter discarded carelessly near your left big toe, although it looks a bit damaged, and unfortunately the letters  M, R, T and N have falen off the Polar Bear name detector bit.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1145"></child>
+            <child nodeId="node-1138"></child>
+        </children>
+    </item>
+    <item nodeId="node-1138">
+        <command xml:space="preserve">take meter</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1139"></child>
+        </children>
+    </item>
+    <item nodeId="node-1139">
+        <command xml:space="preserve">take meter</command>
+        <result xml:space="preserve">You already have that.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1140"></child>
+        </children>
+    </item>
+    <item nodeId="node-1140">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">Waking Room
+There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1141"></child>
+        </children>
+    </item>
+    <item nodeId="node-1141">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">Waking Room
+There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1142"></child>
+        </children>
+    </item>
+    <item nodeId="node-1142">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">Waking Room
+There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1143"></child>
+        </children>
+    </item>
+    <item nodeId="node-1143">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1144"></child>
+        </children>
+    </item>
+    <item nodeId="node-1144">
+        <command xml:space="preserve">go west</command>
+        <result xml:space="preserve">Waking Room
+There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1145">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+south side of The Really Really Long Hallway
+You are in a really, really long hallway, which stretches to the north, and has a door to the south.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1146"></child>
+        </children>
+    </item>
+    <item nodeId="node-1146">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+north side of The Really Really Long Hallway
+You are in a really, really lon hallway which stretches to the south. There is a door to the north.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1147"></child>
+        </children>
+    </item>
+    <item nodeId="node-1147">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Frog Track
+A track which Giant frogs would race on is in this large hall.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1148">
+        <command xml:space="preserve">Take meter</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1149"></child>
+        </children>
+    </item>
+    <item nodeId="node-1149">
+        <command xml:space="preserve">west</command>
+        <result xml:space="preserve">Waking Room
+There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1150"></child>
+        </children>
+    </item>
+    <item nodeId="node-1150">
+        <command xml:space="preserve">North</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1151"></child>
+        </children>
+    </item>
+    <item nodeId="node-1151">
+        <command xml:space="preserve">North</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1152"></child>
+        </children>
+    </item>
+    <item nodeId="node-1152">
+        <command xml:space="preserve">north</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1153"></child>
+        </children>
+    </item>
+    <item nodeId="node-1153">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1154"></child>
+        </children>
+    </item>
+    <item nodeId="node-1154">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1155"></child>
+        </children>
+    </item>
+    <item nodeId="node-1155">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1156"></child>
+        </children>
+    </item>
+    <item nodeId="node-1156">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1157"></child>
+        </children>
+    </item>
+    <item nodeId="node-1157">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1158"></child>
+        </children>
+    </item>
+    <item nodeId="node-1158">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>

@@ -1,0 +1,57 @@
+! Blurb file created by Inform build 6M62
+
+status "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/CblorbModel.html" "/Users/leonard/Confusion/Confusion.inform/Build/StatusCblorb.html"
+
+
+! Identification
+
+project folder "/Users/leonard/Confusion/Confusion.inform"
+release to "/Users/leonard/Confusion/Confusion.materials/Release"
+
+! Blorb instructions
+
+storyfile leafname "Adventure.gblorb"
+storyfile "/Users/leonard/Confusion/Confusion.inform/Build/output.ulx" include
+ifiction "/Users/leonard/Confusion/Confusion.inform/Metadata.iFiction" include
+cover "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
+picture 1 "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
+release file "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Cover.jpg"
+release file "/Applications/Inform.app/Contents/Resources/Internal/Miscellany/Small Cover.jpg"
+
+! Placeholder variables
+
+placeholder [IFID] = "E426B51A-EFE9-4A53-B9F1-962AAE0320AC"
+placeholder [RELEASE] = "1"
+placeholder [YEAR] = "2020"
+placeholder [TITLE] = "Adventure"
+placeholder [AUTHOR] = "Leonard"
+placeholder [BLURB] = "A work of interactive fiction."
+
+! Other material to release
+
+
+! Website instructions
+
+placeholder [ENCODEDSTORYFILE] = "Adventure.gblorb.js"
+template path "/Users/leonard/Confusion/Confusion.materials/Templates"
+template path "/Users/leonard/Library/Inform/Templates"
+template path "/Applications/Inform.app/Contents/Resources/Internal/Templates"
+placeholder [INTERPRETERSCRIPTS] = " "
+interpreter "Quixe" "g"
+base64 "/Users/leonard/Confusion/Confusion.inform/Build/output.ulx" to "/Users/leonard/Confusion/Confusion.materials/Release/interpreter/Adventure.gblorb.js"
+
+! Website instructions
+
+template path "/Users/leonard/Confusion/Confusion.materials/Templates"
+template path "/Users/leonard/Library/Inform/Templates"
+template path "/Applications/Inform.app/Contents/Resources/Internal/Templates"
+css
+website "Standard"
+status instruction ||&nbsp;<a href="source:story.ni#line3"><img border=0 src=inform:/doc_images/Reveal.tif></a>||
+status alternative ||Using 'Release along with cover art', to provide something more distinctive than the default artwork above&nbsp;<a href=inform:/doc403.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with a file of "Such-and-Such" called "whatever.pdf"', perhaps to add a manual, or a welcoming note&nbsp;<a href=inform:/doc401.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the source text'&nbsp;<a href=inform:/doc412.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with a solution'&nbsp;<a href=inform:/doc411.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the library card'&nbsp;<a href=inform:/doc412.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the introductory booklet'&nbsp;<a href=inform:/doc404.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the introductory postcard'&nbsp;<a href=inform:/doc404.html><img border=0 src=inform:/doc_images/help.png></a>||
