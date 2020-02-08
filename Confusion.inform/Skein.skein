@@ -1,37 +1,39 @@
 <?xml version="1.0"?>
 
-<Skein rootNode="node-1235">
+<Skein rootNode="node-1002">
     <generator>Inform Mac Client (Inform version )</generator>
-    <item nodeId="node-1235">
+    <item nodeId="node-1002">
         <command xml:space="preserve">Confusion</command>
         <result xml:space="preserve">
 
 
-You awaken to find yourself confused, disorientated, and also confused and disorientated. The frst thing you notice is the absence of your faithful friend and companion of many minutes, Martin, the polar bear slightly smaller than a really really big frog. There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room. You also notice the alarming absence of a huge frog with which you would normally compare Martin. This causes you such distress that you fall unconscious, and have to back to the top of the paragraph when you wake up.
+You awaken to find yourself confused, disorientated, and also confused and disorientated. The frst thing you notice is the absence of your faithful friend and companion of many minutes, Martin, the polar bear slightly smaller than a really really big frog. You also notice the alarming absence of a huge frog with which you would normally compare Martin. This causes you such distress that you fall unconscious, and have to back to the top of the paragraph when you wake up.
 
-Adventure
-An Interactive Fiction by Leonard
-Release 1 / Serial number 200119 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
+Confusion
+An Interactive Fiction by Dranoel
+Release 1 / Serial number 200206 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
 
 Waking Room
 There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
 
-There is a polar meter discarded carelessly near your left big toe, although it looks a bit damaged, and unfortunately the letters  M, R, T and N have falen off the Polar Bear name detector bit.
+There is a polar meter discarded carelessly near your left big toe, although it looks a bit damaged, and unfortunately the letters  M, R, T and N have fallen off the Polar Bear name detector bit.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1288"></child>
-            <child nodeId="node-1277"></child>
-            <child nodeId="node-1271"></child>
-            <child nodeId="node-1267"></child>
-            <child nodeId="node-1254"></child>
-            <child nodeId="node-1251"></child>
-            <child nodeId="node-1250"></child>
-            <child nodeId="node-1245"></child>
-            <child nodeId="node-1236"></child>
+        <children><child nodeId="node-1168"></child>
+            <child nodeId="node-1157"></child>
+            <child nodeId="node-1146"></child>
+            <child nodeId="node-1038"></child>
+            <child nodeId="node-1034"></child>
+            <child nodeId="node-1202"></child>
+            <child nodeId="node-1021"></child>
+            <child nodeId="node-1018"></child>
+            <child nodeId="node-1017"></child>
+            <child nodeId="node-1012"></child>
+            <child nodeId="node-1003"></child>
         </children>
     </item>
-    <item nodeId="node-1236">
+    <item nodeId="node-1003">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">Waking Room
 There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
@@ -40,10 +42,10 @@ There is a polar meter discarded carelessly near your left big toe, although it 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1237"></child>
+        <children><child nodeId="node-1004"></child>
         </children>
     </item>
-    <item nodeId="node-1237">
+    <item nodeId="node-1004">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">Waking Room
 There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
@@ -52,60 +54,60 @@ There is a polar meter discarded carelessly near your left big toe, although it 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1238"></child>
+        <children><child nodeId="node-1005"></child>
         </children>
     </item>
-    <item nodeId="node-1238">
+    <item nodeId="node-1005">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1239"></child>
+        <children><child nodeId="node-1006"></child>
         </children>
     </item>
-    <item nodeId="node-1239">
+    <item nodeId="node-1006">
         <command xml:space="preserve">look</command>
         <result xml:space="preserve">south side of The Really Really Long Hallway
 You are in a really, really long hallway, which stretches to the north, and has a door to the south.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1240"></child>
+        <children><child nodeId="node-1007"></child>
         </children>
     </item>
-    <item nodeId="node-1240">
+    <item nodeId="node-1007">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1241"></child>
+        <children><child nodeId="node-1008"></child>
         </children>
     </item>
-    <item nodeId="node-1241">
+    <item nodeId="node-1008">
         <command xml:space="preserve">look</command>
         <result xml:space="preserve">north side of The Really Really Long Hallway
 You are in a really, really lon hallway which stretches to the south. There is a door to the north.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1242"></child>
+        <children><child nodeId="node-1009"></child>
         </children>
     </item>
-    <item nodeId="node-1242">
+    <item nodeId="node-1009">
         <command xml:space="preserve">nor</command>
         <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1243"></child>
+        <children><child nodeId="node-1010"></child>
         </children>
     </item>
-    <item nodeId="node-1243">
+    <item nodeId="node-1010">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1244"></child>
+        <children><child nodeId="node-1011"></child>
         </children>
     </item>
-    <item nodeId="node-1244">
+    <item nodeId="node-1011">
         <command xml:space="preserve">look</command>
         <result xml:space="preserve">Frog Track
 A track which Giant frogs would race on is in this large hall.
@@ -113,7 +115,7 @@ A track which Giant frogs would race on is in this large hall.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1245">
+    <item nodeId="node-1012">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Absolutely Dreadful Disaster Room
@@ -126,10 +128,10 @@ There is a polar meter discarded carelessly near your left big toe, although it 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1246"></child>
+        <children><child nodeId="node-1013"></child>
         </children>
     </item>
-    <item nodeId="node-1246">
+    <item nodeId="node-1013">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">Waking Room
 There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
@@ -138,19 +140,19 @@ There is a polar meter discarded carelessly near your left big toe, although it 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1247"></child>
+        <children><child nodeId="node-1014"></child>
         </children>
     </item>
-    <item nodeId="node-1247">
+    <item nodeId="node-1014">
         <command xml:space="preserve">wesat</command>
         <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1248"></child>
+        <children><child nodeId="node-1015"></child>
         </children>
     </item>
-    <item nodeId="node-1248">
+    <item nodeId="node-1015">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">Waking Room
 There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
@@ -159,43 +161,112 @@ There is a polar meter discarded carelessly near your left big toe, although it 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1249"></child>
+        <children><child nodeId="node-1016"></child>
         </children>
     </item>
-    <item nodeId="node-1249">
+    <item nodeId="node-1016">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1250">
+    <item nodeId="node-1017">
         <command xml:space="preserve">test me</command>
         <result xml:space="preserve">(Testing.)
 
-&gt;[1] w
+&gt;[1] n
 
-Absolutely Dreadful Disaster Room
-As you enter the ADDR, you are amazed by the amount of tragically destroyed bits of Polars Bears and Frogs-it is really horrible. I mean, there is blood on the blood on the floor-it's so horribly distressing that you immediately stop going West, thus saving us the bother of making up anything else this way except for utterly really horibly wrecked bits of polar bears and even bigger frogs. You immediately suspect the actions of your arch-nemesis, Dillon Practical Joker Weird Polar Bear and Frog Slaughterer The Sixth. Or the Third.
+south side of The Really Really Long Hallway
+You are in a really, really long hallway, which stretches to the north, and has a door to the south.
 
-Waking Room
-There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
+&gt;[2] n
+You are now really tired.
 
-There is a polar meter discarded carelessly near your left big toe, although it looks a bit damaged, and unfortunately the letters  M, R, T and N have falen off the Polar Bear name detector bit.
+north side of The Really Really Long Hallway
+You are in a really, really long hallway which stretches to the south. There is a door to the north.
+
+&gt;[3] n
+
+Frog Track
+A slimy track which Giant frogs would race on is going around the edges of this large hall.
+
+A frog speedometer is in the middle of the room, but it is too big to lift up.
+
+You can also see a slimy track here.
+
+&gt;[4] take track
+Did you really think that would work?
+
+&gt;[5] take track
+Did you really think that would work?
+
+&gt;[6] take track
+Did you really think that would work?
+
+&gt;[7] take track
+Did you really think that would work?
+
+&gt;[8] take track
+Did you really think that would work?
+
+&gt;[9] take track
+Did you really think that would work?
+
+&gt;[10] take track
+Did you really think that would work?
+
+&gt;[11] take track
+Did you really think that would work?
+
+&gt;[12] take track
+Did you really think that would work?
+
+&gt;[13] take track
+Did you really think that would work?
+
+&gt;[14] take track
+Fine, I'll give it to you if you stop doing that!
+
+Taken.
+
+&gt;[15] use frog speedometer
+The frog speedometer explodes, leaving a T sticker in its place.
+
+&gt;[16] look
+Frog Track
+This hall is very big.
+
+A black sticker in the shape of a T lies here.
 
 &gt;</result>
-        <commentary xml:space="preserve">[1] w
+        <commentary xml:space="preserve">[1] n
+[2] n
+[3] n
+[4] take track
+[5] take track
+[6] take track
+[7] take track
+[8] take track
+[9] take track
+[10] take track
+[11] take track
+[12] take track
+[13] take track
+[14] take track
+[15] use frog speedometer
+[16] look
 </commentary>
         <children></children>
     </item>
-    <item nodeId="node-1251">
+    <item nodeId="node-1018">
         <command xml:space="preserve">test</command>
         <result xml:space="preserve">&gt;--&gt; The following tests are available:
 'test me'
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1252"></child>
+        <children><child nodeId="node-1019"></child>
         </children>
     </item>
-    <item nodeId="node-1252">
+    <item nodeId="node-1019">
         <command xml:space="preserve">test me</command>
         <result xml:space="preserve">(Testing.)
 
@@ -212,10 +283,10 @@ There is a polar meter discarded carelessly near your left big toe, although it 
 &gt;</result>
         <commentary xml:space="preserve">[1] w
 </commentary>
-        <children><child nodeId="node-1253"></child>
+        <children><child nodeId="node-1020"></child>
         </children>
     </item>
-    <item nodeId="node-1253">
+    <item nodeId="node-1020">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Absolutely Dreadful Disaster Room
@@ -229,18 +300,18 @@ There is a polar meter discarded carelessly near your left big toe, although it 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1254">
+    <item nodeId="node-1021">
         <command xml:space="preserve">take meter</command>
         <result xml:space="preserve">Taken.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1266"></child>
-            <child nodeId="node-1256"></child>
-            <child nodeId="node-1255"></child>
+        <children><child nodeId="node-1033"></child>
+            <child nodeId="node-1023"></child>
+            <child nodeId="node-1022"></child>
         </children>
     </item>
-    <item nodeId="node-1255">
+    <item nodeId="node-1022">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">Waking Room
 There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
@@ -248,7 +319,7 @@ There is a door to the north, another door to the west, and a window in the sout
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1256">
+    <item nodeId="node-1023">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">
 Absolutely Dreadful Disaster Room
@@ -259,10 +330,10 @@ There is a door to the north, another door to the west, and a window in the sout
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1257"></child>
+        <children><child nodeId="node-1024"></child>
         </children>
     </item>
-    <item nodeId="node-1257">
+    <item nodeId="node-1024">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 south side of The Really Really Long Hallway
@@ -270,10 +341,10 @@ You ae in a really, really long hallway, which stretches to the north, and has a
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1258"></child>
+        <children><child nodeId="node-1025"></child>
         </children>
     </item>
-    <item nodeId="node-1258">
+    <item nodeId="node-1025">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">You are now really tired.
 
@@ -282,20 +353,20 @@ You are in a really, really long hallway which stretches to the south. There is 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1261"></child>
-            <child nodeId="node-1259"></child>
+        <children><child nodeId="node-1028"></child>
+            <child nodeId="node-1026"></child>
         </children>
     </item>
-    <item nodeId="node-1259">
+    <item nodeId="node-1026">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">Too tired!
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1260"></child>
+        <children><child nodeId="node-1027"></child>
         </children>
     </item>
-    <item nodeId="node-1260">
+    <item nodeId="node-1027">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Frog Track
@@ -304,16 +375,16 @@ A track which Giant frogs would race on is in this large hall.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1261">
+    <item nodeId="node-1028">
         <command xml:space="preserve"></command>
         <result xml:space="preserve">I beg your pardon?
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1262"></child>
+        <children><child nodeId="node-1029"></child>
         </children>
     </item>
-    <item nodeId="node-1262">
+    <item nodeId="node-1029">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Frog Track
@@ -323,35 +394,35 @@ A frog speed tracker is in the middle of the room, but it is too big to lift up.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1263"></child>
+        <children><child nodeId="node-1030"></child>
         </children>
     </item>
-    <item nodeId="node-1263">
+    <item nodeId="node-1030">
         <command xml:space="preserve">take speed</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1264"></child>
+        <children><child nodeId="node-1031"></child>
         </children>
     </item>
-    <item nodeId="node-1264">
+    <item nodeId="node-1031">
         <command xml:space="preserve">take speed tracker</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1265"></child>
+        <children><child nodeId="node-1032"></child>
         </children>
     </item>
-    <item nodeId="node-1265">
+    <item nodeId="node-1032">
         <command xml:space="preserve">take frog</command>
         <result xml:space="preserve">Too big and heavy!
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1266">
+    <item nodeId="node-1033">
         <command xml:space="preserve">go west</command>
         <result xml:space="preserve">Waking Room
 You awaken to find yourself confused, disorientated, and also confused and disorientated. The frst thing you notice is the absence of your faithful friend and companion of many minutes, Martin, the polar bear slightly smaller than a really really big frog. There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room. You also notice the alarming absence of a huge frog with which you would normally compare Martin. This causes you such distress that you fall unconscious, and have to back to the top of the paragraph when you wake up.
@@ -359,30 +430,63 @@ You awaken to find yourself confused, disorientated, and also confused and disor
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1267">
+    <item nodeId="node-1202">
+        <command xml:space="preserve">purloin T sticker</command>
+        <result xml:space="preserve">[Purloined.]
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1206"></child>
+            <child nodeId="node-1203"></child>
+        </children>
+    </item>
+    <item nodeId="node-1203">
+        <command xml:space="preserve">take meter</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1204"></child>
+        </children>
+    </item>
+    <item nodeId="node-1204">
+        <command xml:space="preserve">stick T sticker on meter</command>
+        <result xml:space="preserve">You stick the T sticker on to the polar bear meter, getting clos
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1206">
+        <command xml:space="preserve">stick T sticker on meter</command>
+        <result xml:space="preserve">(first taking the AI Polar Bear Meter)
+You stick the T sticker on to the polar bear meter, getting closer to it saying MARTIN.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1034">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1268"></child>
+        <children><child nodeId="node-1035"></child>
         </children>
     </item>
-    <item nodeId="node-1268">
+    <item nodeId="node-1035">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1269"></child>
+        <children><child nodeId="node-1036"></child>
         </children>
     </item>
-    <item nodeId="node-1269">
+    <item nodeId="node-1036">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1270"></child>
+        <children><child nodeId="node-1037"></child>
         </children>
     </item>
-    <item nodeId="node-1270">
+    <item nodeId="node-1037">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">Waking Room
 There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
@@ -392,18 +496,18 @@ There is a polar meter discarded carelessly near your left big toe, although it 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1271">
+    <item nodeId="node-1038">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 south side of The Really Really Long Hallway
-You ae in a really, really long hallway, which stretches to the north, and has a door to the south.
+You are in a really, really long hallway, which stretches to the north, and has a door to the south.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1272"></child>
+        <children><child nodeId="node-1039"></child>
         </children>
     </item>
-    <item nodeId="node-1272">
+    <item nodeId="node-1039">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">You are now really tired.
 
@@ -412,20 +516,20 @@ You are in a really, really long hallway which stretches to the south. There is 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1275"></child>
-            <child nodeId="node-1273"></child>
+        <children><child nodeId="node-1042"></child>
+            <child nodeId="node-1040"></child>
         </children>
     </item>
-    <item nodeId="node-1273">
+    <item nodeId="node-1040">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">Too tired!
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1274"></child>
+        <children><child nodeId="node-1041"></child>
         </children>
     </item>
-    <item nodeId="node-1274">
+    <item nodeId="node-1041">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Frog Track
@@ -434,18 +538,938 @@ A track which Giant frogs would race on is in this large hall.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1275">
+    <item nodeId="node-1042">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Frog Track
-A track which Giant frogs would race on is in this large hall.
+A slimy track which Giant frogs would race on is going around the edges of this large hall.
+
+A frog speedometer is in the middle of the room, but it is too big to lift up.
+
+You can also see a slimy track here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1276"></child>
+        <children><child nodeId="node-1145"></child>
+            <child nodeId="node-1075"></child>
+            <child nodeId="node-1057"></child>
+            <child nodeId="node-1043"></child>
         </children>
     </item>
-    <item nodeId="node-1276">
+    <item nodeId="node-1043">
+        <command xml:space="preserve">use frog speedometer</command>
+        <result xml:space="preserve">Hi
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1044"></child>
+        </children>
+    </item>
+    <item nodeId="node-1044">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1045"></child>
+        </children>
+    </item>
+    <item nodeId="node-1045">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1046"></child>
+        </children>
+    </item>
+    <item nodeId="node-1046">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1047"></child>
+        </children>
+    </item>
+    <item nodeId="node-1047">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1048"></child>
+        </children>
+    </item>
+    <item nodeId="node-1048">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1049"></child>
+        </children>
+    </item>
+    <item nodeId="node-1049">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1050"></child>
+        </children>
+    </item>
+    <item nodeId="node-1050">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1051"></child>
+        </children>
+    </item>
+    <item nodeId="node-1051">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1052"></child>
+        </children>
+    </item>
+    <item nodeId="node-1052">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1053"></child>
+        </children>
+    </item>
+    <item nodeId="node-1053">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1054"></child>
+        </children>
+    </item>
+    <item nodeId="node-1054">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1055"></child>
+        </children>
+    </item>
+    <item nodeId="node-1055">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Fine, I'll give it to you if you stop doing that!
+
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1056"></child>
+        </children>
+    </item>
+    <item nodeId="node-1056">
+        <command xml:space="preserve">use frog speedometer</command>
+        <result xml:space="preserve">Ho
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1057">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1058"></child>
+        </children>
+    </item>
+    <item nodeId="node-1058">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1059"></child>
+        </children>
+    </item>
+    <item nodeId="node-1059">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1060"></child>
+        </children>
+    </item>
+    <item nodeId="node-1060">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1061"></child>
+        </children>
+    </item>
+    <item nodeId="node-1061">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1062"></child>
+        </children>
+    </item>
+    <item nodeId="node-1062">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1063"></child>
+        </children>
+    </item>
+    <item nodeId="node-1063">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1064"></child>
+        </children>
+    </item>
+    <item nodeId="node-1064">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1065"></child>
+        </children>
+    </item>
+    <item nodeId="node-1065">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1066"></child>
+        </children>
+    </item>
+    <item nodeId="node-1066">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1067"></child>
+        </children>
+    </item>
+    <item nodeId="node-1067">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Fine, I'll give it to you if you stop doing that!
+
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1070"></child>
+            <child nodeId="node-1068"></child>
+        </children>
+    </item>
+    <item nodeId="node-1068">
+        <command xml:space="preserve">use speedometer</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1069"></child>
+        </children>
+    </item>
+    <item nodeId="node-1069">
+        <command xml:space="preserve">use frog speedometer</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1070">
+        <command xml:space="preserve">use frog speedometer</command>
+        <result xml:space="preserve">The frog speedometer explodes, leaving a T sticker in its place.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1073"></child>
+            <child nodeId="node-1071"></child>
+        </children>
+    </item>
+    <item nodeId="node-1071">
+        <command xml:space="preserve">take sticker</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1072"></child>
+        </children>
+    </item>
+    <item nodeId="node-1072">
+        <command xml:space="preserve">use T sticker with meter</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1073">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Frog Track
+This hall is very big.
+
+A black sticker in the shape of a T lies here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1074"></child>
+        </children>
+    </item>
+    <item nodeId="node-1074">
+        <command xml:space="preserve">take sticker</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1075">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1127"></child>
+            <child nodeId="node-1076"></child>
+        </children>
+    </item>
+    <item nodeId="node-1076">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1077"></child>
+        </children>
+    </item>
+    <item nodeId="node-1077">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1078"></child>
+        </children>
+    </item>
+    <item nodeId="node-1078">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1079"></child>
+        </children>
+    </item>
+    <item nodeId="node-1079">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1080"></child>
+        </children>
+    </item>
+    <item nodeId="node-1080">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1081"></child>
+        </children>
+    </item>
+    <item nodeId="node-1081">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1082"></child>
+        </children>
+    </item>
+    <item nodeId="node-1082">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1083"></child>
+        </children>
+    </item>
+    <item nodeId="node-1083">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1084"></child>
+        </children>
+    </item>
+    <item nodeId="node-1084">
+        <command xml:space="preserve">nn</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1085"></child>
+        </children>
+    </item>
+    <item nodeId="node-1085">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1086"></child>
+        </children>
+    </item>
+    <item nodeId="node-1086">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1087"></child>
+        </children>
+    </item>
+    <item nodeId="node-1087">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1088"></child>
+        </children>
+    </item>
+    <item nodeId="node-1088">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1089"></child>
+        </children>
+    </item>
+    <item nodeId="node-1089">
+        <command xml:space="preserve">clear</command>
+        <result xml:space="preserve">What do you want to clear?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1090"></child>
+        </children>
+    </item>
+    <item nodeId="node-1090">
+        <command xml:space="preserve">text</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1091"></child>
+        </children>
+    </item>
+    <item nodeId="node-1091">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1092"></child>
+        </children>
+    </item>
+    <item nodeId="node-1092">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1093"></child>
+        </children>
+    </item>
+    <item nodeId="node-1093">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1094"></child>
+        </children>
+    </item>
+    <item nodeId="node-1094">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1095"></child>
+        </children>
+    </item>
+    <item nodeId="node-1095">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1096"></child>
+        </children>
+    </item>
+    <item nodeId="node-1096">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1097"></child>
+        </children>
+    </item>
+    <item nodeId="node-1097">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1098"></child>
+        </children>
+    </item>
+    <item nodeId="node-1098">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1099"></child>
+        </children>
+    </item>
+    <item nodeId="node-1099">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1100"></child>
+        </children>
+    </item>
+    <item nodeId="node-1100">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1101"></child>
+        </children>
+    </item>
+    <item nodeId="node-1101">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1102"></child>
+        </children>
+    </item>
+    <item nodeId="node-1102">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1103"></child>
+        </children>
+    </item>
+    <item nodeId="node-1103">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1104"></child>
+        </children>
+    </item>
+    <item nodeId="node-1104">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1105"></child>
+        </children>
+    </item>
+    <item nodeId="node-1105">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1106"></child>
+        </children>
+    </item>
+    <item nodeId="node-1106">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1107"></child>
+        </children>
+    </item>
+    <item nodeId="node-1107">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1108"></child>
+        </children>
+    </item>
+    <item nodeId="node-1108">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1109"></child>
+        </children>
+    </item>
+    <item nodeId="node-1109">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1110"></child>
+        </children>
+    </item>
+    <item nodeId="node-1110">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1111"></child>
+        </children>
+    </item>
+    <item nodeId="node-1111">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1112"></child>
+        </children>
+    </item>
+    <item nodeId="node-1112">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1113"></child>
+        </children>
+    </item>
+    <item nodeId="node-1113">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1114"></child>
+        </children>
+    </item>
+    <item nodeId="node-1114">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1115"></child>
+        </children>
+    </item>
+    <item nodeId="node-1115">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1116"></child>
+        </children>
+    </item>
+    <item nodeId="node-1116">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1117"></child>
+        </children>
+    </item>
+    <item nodeId="node-1117">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1118"></child>
+        </children>
+    </item>
+    <item nodeId="node-1118">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1119"></child>
+        </children>
+    </item>
+    <item nodeId="node-1119">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1120"></child>
+        </children>
+    </item>
+    <item nodeId="node-1120">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1121"></child>
+        </children>
+    </item>
+    <item nodeId="node-1121">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1122"></child>
+        </children>
+    </item>
+    <item nodeId="node-1122">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1123"></child>
+        </children>
+    </item>
+    <item nodeId="node-1123">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1124"></child>
+        </children>
+    </item>
+    <item nodeId="node-1124">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1125"></child>
+        </children>
+    </item>
+    <item nodeId="node-1125">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1126"></child>
+        </children>
+    </item>
+    <item nodeId="node-1126">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1127">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1128"></child>
+        </children>
+    </item>
+    <item nodeId="node-1128">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1129"></child>
+        </children>
+    </item>
+    <item nodeId="node-1129">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1130"></child>
+        </children>
+    </item>
+    <item nodeId="node-1130">
+        <command xml:space="preserve">save</command>
+        <result xml:space="preserve">Save failed.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1131"></child>
+        </children>
+    </item>
+    <item nodeId="node-1131">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1132"></child>
+        </children>
+    </item>
+    <item nodeId="node-1132">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1133"></child>
+        </children>
+    </item>
+    <item nodeId="node-1133">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1134"></child>
+        </children>
+    </item>
+    <item nodeId="node-1134">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1135"></child>
+        </children>
+    </item>
+    <item nodeId="node-1135">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1136"></child>
+        </children>
+    </item>
+    <item nodeId="node-1136">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1137"></child>
+        </children>
+    </item>
+    <item nodeId="node-1137">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1138"></child>
+        </children>
+    </item>
+    <item nodeId="node-1138">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1139"></child>
+        </children>
+    </item>
+    <item nodeId="node-1139">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1140"></child>
+        </children>
+    </item>
+    <item nodeId="node-1140">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1141"></child>
+        </children>
+    </item>
+    <item nodeId="node-1141">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Fine, I'll give it to you if you stop doing that!
+
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1142"></child>
+        </children>
+    </item>
+    <item nodeId="node-1142">
+        <command xml:space="preserve">use speedometer</command>
+        <result xml:space="preserve">The frog speedometer explodes, leaving a T sticker in its place.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1143"></child>
+        </children>
+    </item>
+    <item nodeId="node-1143">
+        <command xml:space="preserve">take T sticker</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1144"></child>
+        </children>
+    </item>
+    <item nodeId="node-1144">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Frog Track
+A slimy track which Giant frogs would race on is going around the edges of this large hall.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1145">
         <command xml:space="preserve">look</command>
         <result xml:space="preserve">Frog Track
 A track which Giant frogs would race on is in this large hall.
@@ -453,7 +1477,7 @@ A track which Giant frogs would race on is in this large hall.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1277">
+    <item nodeId="node-1146">
         <command xml:space="preserve">look</command>
         <result xml:space="preserve">Waking Room
  There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room. 
@@ -462,66 +1486,66 @@ There is a polar meter discarded carelessly near your left big toe, although it 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1285"></child>
-            <child nodeId="node-1278"></child>
+        <children><child nodeId="node-1154"></child>
+            <child nodeId="node-1147"></child>
         </children>
     </item>
-    <item nodeId="node-1278">
+    <item nodeId="node-1147">
         <command xml:space="preserve">take meter</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1279"></child>
+        <children><child nodeId="node-1148"></child>
         </children>
     </item>
-    <item nodeId="node-1279">
+    <item nodeId="node-1148">
         <command xml:space="preserve">take meter</command>
         <result xml:space="preserve">You already have that.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1280"></child>
+        <children><child nodeId="node-1149"></child>
         </children>
     </item>
-    <item nodeId="node-1280">
+    <item nodeId="node-1149">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">Waking Room
 There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1281"></child>
+        <children><child nodeId="node-1150"></child>
         </children>
     </item>
-    <item nodeId="node-1281">
+    <item nodeId="node-1150">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">Waking Room
 There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1282"></child>
+        <children><child nodeId="node-1151"></child>
         </children>
     </item>
-    <item nodeId="node-1282">
+    <item nodeId="node-1151">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">Waking Room
 There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1283"></child>
+        <children><child nodeId="node-1152"></child>
         </children>
     </item>
-    <item nodeId="node-1283">
+    <item nodeId="node-1152">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1284"></child>
+        <children><child nodeId="node-1153"></child>
         </children>
     </item>
-    <item nodeId="node-1284">
+    <item nodeId="node-1153">
         <command xml:space="preserve">go west</command>
         <result xml:space="preserve">Waking Room
 There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
@@ -529,7 +1553,7 @@ There is a door to the north, another door to the west, and a window in the sout
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1285">
+    <item nodeId="node-1154">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 south side of The Really Really Long Hallway
@@ -537,10 +1561,10 @@ You are in a really, really long hallway, which stretches to the north, and has 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1286"></child>
+        <children><child nodeId="node-1155"></child>
         </children>
     </item>
-    <item nodeId="node-1286">
+    <item nodeId="node-1155">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 north side of The Really Really Long Hallway
@@ -548,10 +1572,10 @@ You are in a really, really lon hallway which stretches to the south. There is a
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1287"></child>
+        <children><child nodeId="node-1156"></child>
         </children>
     </item>
-    <item nodeId="node-1287">
+    <item nodeId="node-1156">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Frog Track
@@ -560,84 +1584,230 @@ A track which Giant frogs would race on is in this large hall.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1288">
+    <item nodeId="node-1157">
         <command xml:space="preserve">Take meter</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1289"></child>
+        <children><child nodeId="node-1158"></child>
         </children>
     </item>
-    <item nodeId="node-1289">
+    <item nodeId="node-1158">
         <command xml:space="preserve">west</command>
         <result xml:space="preserve">Waking Room
 There is a door to the north, another door to the west, and a window in the south south east of the very strangely shaped room.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1290"></child>
+        <children><child nodeId="node-1159"></child>
         </children>
     </item>
-    <item nodeId="node-1290">
+    <item nodeId="node-1159">
         <command xml:space="preserve">North</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1291"></child>
+        <children><child nodeId="node-1160"></child>
         </children>
     </item>
-    <item nodeId="node-1291">
+    <item nodeId="node-1160">
         <command xml:space="preserve">North</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1292"></child>
+        <children><child nodeId="node-1161"></child>
         </children>
     </item>
-    <item nodeId="node-1292">
+    <item nodeId="node-1161">
         <command xml:space="preserve">north</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1293"></child>
+        <children><child nodeId="node-1162"></child>
         </children>
     </item>
-    <item nodeId="node-1293">
+    <item nodeId="node-1162">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1294"></child>
+        <children><child nodeId="node-1163"></child>
         </children>
     </item>
-    <item nodeId="node-1294">
+    <item nodeId="node-1163">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1295"></child>
+        <children><child nodeId="node-1164"></child>
         </children>
     </item>
-    <item nodeId="node-1295">
+    <item nodeId="node-1164">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1296"></child>
+        <children><child nodeId="node-1165"></child>
         </children>
     </item>
-    <item nodeId="node-1296">
+    <item nodeId="node-1165">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1297"></child>
+        <children><child nodeId="node-1166"></child>
         </children>
     </item>
-    <item nodeId="node-1297">
+    <item nodeId="node-1166">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1298"></child>
+        <children><child nodeId="node-1167"></child>
         </children>
     </item>
-    <item nodeId="node-1298">
+    <item nodeId="node-1167">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1168">
+        <command xml:space="preserve">   n</command>
+        <result xml:space="preserve">
+south side of The Really Really Long Hallway
+You are in a really, really long hallway, which stretches to the north, and has a door to the south.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1169"></child>
+        </children>
+    </item>
+    <item nodeId="node-1169">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You are now really tired.
+
+north side of The Really Really Long Hallway
+You are in a really, really long hallway which stretches to the south. There is a door to the north.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1170"></child>
+        </children>
+    </item>
+    <item nodeId="node-1170">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Frog Track
+A slimy track which Giant frogs would race on is going around the edges of this large hall.
+
+A frog speedometer is in the middle of the room, but it is too big to lift up.
+
+You can also see a slimy track here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1171"></child>
+        </children>
+    </item>
+    <item nodeId="node-1171">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1172"></child>
+        </children>
+    </item>
+    <item nodeId="node-1172">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1173"></child>
+        </children>
+    </item>
+    <item nodeId="node-1173">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1174"></child>
+        </children>
+    </item>
+    <item nodeId="node-1174">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1175"></child>
+        </children>
+    </item>
+    <item nodeId="node-1175">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1176"></child>
+        </children>
+    </item>
+    <item nodeId="node-1176">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1177"></child>
+        </children>
+    </item>
+    <item nodeId="node-1177">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1178"></child>
+        </children>
+    </item>
+    <item nodeId="node-1178">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1179"></child>
+        </children>
+    </item>
+    <item nodeId="node-1179">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1180"></child>
+        </children>
+    </item>
+    <item nodeId="node-1180">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Did you really think that would work?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1181"></child>
+        </children>
+    </item>
+    <item nodeId="node-1181">
+        <command xml:space="preserve">take track</command>
+        <result xml:space="preserve">Fine, I'll give it to you if you stop doing that!
+
+Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1182"></child>
+        </children>
+    </item>
+    <item nodeId="node-1182">
+        <command xml:space="preserve">skein</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
 </Skein>
